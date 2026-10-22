@@ -1,0 +1,12 @@
+# R generated files
+.Rhistory
+.RData
+.Ruserdata
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Generated output (uncomment if you do not want to commit it)
+# predictions.csv
